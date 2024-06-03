@@ -63,7 +63,6 @@ header_pages:
   - goal.md
   - consortium.md
   - publications.md
-  - about.md
 
 gems: ['jekyll/scholar']
 
@@ -79,3 +78,6 @@ scholar:
 
 minima:
   date_format: "%F"
+
+sass:
+  quiet_deps: true

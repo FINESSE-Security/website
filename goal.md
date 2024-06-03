@@ -1,7 +1,9 @@
 ---
 title: Projektziel
-layout: default
+layout: page
 ---
+
+![FINESSE Projekt]({{ "/assets/images/230404_INCYDE_FINESSE_KEYVISUAL_ALL_Seite_12.png" | relative_url }})
 
 ## Motivation
 Cyber-Angriffe auf Software, Daten oder die allgemeine Betriebsfähigkeit von Straßen- und Schienenfahrzeugen (SSF) stellen eine potenzielle Gefahr für Mensch und Maschine dar.
