@@ -70,4 +70,9 @@ gems: ['jekyll/scholar']
 scholar:
   bibliography: publications.bib
   bibliography_template: bib
-  style: natbib-plainnat-author-date
+  # style: natbib-plainnat-author-date
+  style: acm-siggraph
+  # style: ieee-transactions-on-computers
+  sort_by: year, month
+  order: descending
+  locale: de
