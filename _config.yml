@@ -27,7 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 timezone: Europe/Berlin
-
+lang: de
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima

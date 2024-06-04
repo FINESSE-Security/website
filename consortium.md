@@ -3,6 +3,13 @@ title: Konsortium
 layout: page
 ---
 
+Gefördert vom
+
+![Bundesministerium für Bildung und Forschung](assets/images/BMBF.svg){: width="150"}
+
+<br>
+<br>
+
 
 [![INCYDE Logo](assets/images/INCYDE.svg){: width="250"}](https://incyde.com)
 
@@ -13,13 +20,22 @@ INCYDE gestaltet das DZSF-Projekt „Prognose Securitybedarf und Bewertung mögl
 Für das Security Operations Center im Kontext EULYNX und Deutsche Bahn erfolgte die risikobasierte Ableitung der Use-Cases, die Korrelationslogik und Spezifikation der Komponentenfähigkeiten zur Umsetzung der Security-Strategie.
 Wir gehen davon aus, die umfassenden Kenntnisse und Erfahrungen für die erfolgreiche Steuerung des Projekts und nutzergerechte Gestaltung der Architektur, Analytik und Anwendung einbringen zu können und so die Grundlage für eine schnelle Marktreife für Bahn und Autoindustrie zu legen.
 
+<br>
 
 ![ETAS Logo](assets/images/ETAS_Logo_Blue.svg){: width="250"}
 
-## Fraunhofer-Institut für Sichere Informationstechnologie
+<br>
 
-![Uni Passau Logo](assets/images/fim_1200dpi_fb_gross.png){: width="250"}
+### Fraunhofer-Institut für Sichere Informationstechnologie
 
-![Yekta IT Logo](assets/images/yekta_it_logo.png){: width="250"}
+<br>
 
-## DB Systemtechnik GmbH
+[![Uni Passau Logo](assets/images/fim_1200dpi_fb_gross.png){: width="250"}](https://www.fim.uni-passau.de/technische-informatik/)
+
+<br>
+
+[![Yekta IT Logo](assets/images/yekta_it_logo.png){: width="250"}](https://yekta-it.de/)
+
+<br>
+
+### DB Systemtechnik GmbH
