@@ -60,6 +60,7 @@ plugins:
 exclude:
   - finesse-website.sublime-workspace
   - finesse-website.sublime-project
+  - README.md
 
 header_pages:
   - goal.md
