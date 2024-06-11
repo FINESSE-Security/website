@@ -11,7 +11,7 @@
           {%- if site.email -%}
           <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
-          <li><a href="{{ site.baseurl }}{% link imprint.md %}">Impressum</a></li>
+          <li><a href="{% link imprint.md %}">Impressum</a></li>
         </ul>
       </div>
 
