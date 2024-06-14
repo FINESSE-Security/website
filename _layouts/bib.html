@@ -6,18 +6,18 @@
 
 <div>
     {% if entry.doi %}
-    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span>
+    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">DOI</a></span>
     {% endif %}
     {% if entry.url %}
-    <span><a href="{{ entry.url }}">url</a></span>
+    <span><a href="{{ entry.url }}">URL</a></span>
     {% endif %}
     {% if entry.hal_id %}
-    <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">hal</a></span>
+    <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">HAL</a></span>
     {% endif %}
 </div>
 <div>
     {% if entry.pdf %}
-    <span><a href="{{ entry.pdf }}">pdf</a></span>
+    <span><a href="{{ entry.pdf }}">PDF</a></span>
     {% endif %}
 </div>
 
