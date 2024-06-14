@@ -6,4 +6,4 @@ layout: home
 list_title: Neuigkeiten
 ---
 
-![FINESSE logo](assets/images/FINESSE-logo.png)
+![FINESSE logo](assets/images/logos/FINESSE.png)
