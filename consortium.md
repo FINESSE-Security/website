@@ -48,3 +48,8 @@ Diese aus verschiedenen Bereichen der IT-Sicherheit stammende Expertise soll hie
 <br>
 
 [![DB Systemtechnik Logo](assets/images/logos/DB_Systemtechnik.jpg){: width="250"}](http://www.db-systemtechnik.de/)
+
+Die DB Systemtechnik (DBS), mit Sitz in Minden, ist ein Dienstleistungs- und Entwicklungsunternehmen mit ca. 1.100 Mitarbeitern.
+Als Dienstleister für Fahrzeug- und Infrastrukturprüfungen sowie Zulassungen agiert die DBS europaweit für Eisenbahnverkehrs- und Infrastrukturunternehmen und kann so auf umfassende Erfahrungen im Bereich Fahrzeugtechnik und Eisenbahnbetrieb zurückgreifen.
+Testfahrten, Datenaufbereitung, Analyse und Ableitung von Handlungsbedarfen sind u.a. die durch die europäischen Kunden geschätzten Fähigkeiten und für dieses Projekt relevanten Kernkompetenzen.
+Durch den Betrieb von eigenentwickelten Logging-Instanzen auf ICE 3 Zügen im Regelbetrieb sowie einer flexiblen Testplattform, dem Digital Train Lab (ICE TD) stellt DBS die Möglichkeit zur umfassenden Testdatenextraktion sowie Rückfluss von im Forschungsvorhaben entwickelten Algorithmen bereit.
