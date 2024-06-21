@@ -41,10 +41,21 @@ Ein weiterer Forschungsschwerpunkt der Gruppe ist die Analyse neuer Hardware-Ver
 Zudem war Prof. Katzenbeisser PI im BMBF Kompetenzzentrum für IT-Sicherheitsforschung CRISP, im DFG SFB 1119 CROSSING (Cryptography-Based Security Solutions) sowie im DFG Graduiertenkolleg 2050 (Privacy and Trust for Mobile Users).
 Diese aus verschiedenen Bereichen der IT-Sicherheit stammende Expertise soll hierbei in das Projekt FINESSE einfließen.
 
-
 <br>
 
 [![Yekta IT Logo](assets/images/logos/YEKTA_IT.png){: width="250"}](https://yekta-it.de/)
+
+Die Yekta IT GmbH ist ein Familienunternehmen aus Dortmund mit über 15 Jahren Erfahrung in der Cybersecurity, sowohl im IT- als auch im OT-Umfeld.
+Mit Standorten in Dortmund, Bochum und Berlin verfügen wir über umfassende Expertise in kritischen Infrastrukturen, insbesondere im Automotive- und Rail-Bereich.
+
+Unsere Projekte umfassen unter anderem die Konzeption und Umsetzung von Security Operations Centers im Bahnbereich.
+Besonders hervorzuheben ist unsere langjährige Zusammenarbeit mit der Deutschen Bahn, bei der wir unsere offensive Security-Expertise gewinnbringend beim Aufbau von Security Operations Centers einsetzen konnten.
+Zur Überwachung von Stellwerken haben wir verschiedene OT-Protokolle geparst und durch den Einsatz von Machine Learning sowie regelbasierten Ansätzen Angriffe erkannt.
+Diese Fähigkeiten haben wir im digitalen Testfeld Annaberg-Buchholz erfolgreich demonstriert.
+
+Unsere Stärken liegen in der Entwicklung von Security Use Cases, der Implementierung von Intrusion Detection Systemen und der Detektion von Cyberangriffen.
+Zudem verfügen wir über umfassende Erfahrung im Bereich Pentesting und Offensive Security, wodurch wir in der Lage sind, detaillierte Bedrohungsanalysen durchzuführen und effektive Abwehrstrategien zu entwickeln.
+Wir haben zahlreiche Mandanten erfolgreich an SOCs angebunden und maßgeschneiderte Sicherheitslösungen umgesetzt.
 
 <br>
 
