@@ -22,7 +22,15 @@ Wir gehen davon aus, die umfassenden Kenntnisse und Erfahrungen für die erfolgr
 
 <br>
 
-![ETAS Logo](assets/images/logos/ETAS.svg){: width="250"}
+[![ETAS Logo](assets/images/logos/ETAS.svg){: width="250"}](https://www.etas.com)
+
+Die 1994 gegründete ETAS GmbH ist eine hundertprozentige Tochtergesellschaft der Robert Bosch GmbH und in zwölf Ländern in Europa, Nord- und Südamerika sowie Asien vertreten.
+Die ETAS GmbH ist Anbieter von Software-Lösungen für die Realisierung von softwaredefinierten Fahrzeugen.
+Mit ihrer Marke ESCRYPT ist die ETAS GmbH führender Anbieter von IT-Security-Lösungen im Automobilbereich.
+Zum Produktportfolio der ETAS GmbH gehören Automotive-Security-Dienstleitungen, -Produkte und -Managed-Services.
+Beispiele dafür sind Security-Frameworks und -Tools, auf den Einsatz in eingebetteten Systemen optimierte Security-Software-Komponenten und Security-Services zum Betrieb und Monitoring von Fahrzeugflotten.
+Damit unterstützt ETAS Automobilhersteller in allen Phasen des Produktlebenszyklus, von Analyse und Design, über Implementierung und Validierung bis zum Betrieb von Security-Lösungen. Teil des Produktportfolios der ETAS sind insbesondere Lösungen für automobile Intrusion-Detection-and-Prevention-Systeme (IDPS).
+Dies umfasst fahrzeugseitige Software-Komponenten, z.B. Intrusion Detection Systeme für CAN-Busse und Ethernet-Netzwerke, sowie ein Backend-Service zur Verarbeitung von Security-Events aus Fahrzeugflotten. Mit diesem Hintergrund beteiligt sich ETAS am FINESSE-Projekt, um Methoden für das Security-Monitoring von Fahrzeugflotten weiterzuentwickeln.
 
 <br>
 
