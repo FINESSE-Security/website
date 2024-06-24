@@ -34,7 +34,13 @@ Dies umfasst fahrzeugseitige Software-Komponenten, z.B. Intrusion Detection Syst
 
 <br>
 
-### Fraunhofer-Institut für Sichere Informationstechnologie
+### [Fraunhofer-Institut für Sichere Informationstechnologie](https://www.fraunhofer.de/)
+
+Das Fraunhofer-Institut für Sichere Informationstechnologie SIT zählt zu den weltweit führenden Forschungseinrichtungen für Cybersicherheit und Privatsphärenschutz.
+Das Institut beschäftigt sich mit den zentralen Sicherheitsherausforderungen in Wirtschaft, Verwaltung und Gesellschaft und betreibt praxisorientierte Spitzenforschung und Innovationsentwicklung.
+Zahlreiche Preise und Auszeichnungen belegen die hohe Qualität der Ergebnisse und Entwicklungen.
+Die Forscher des Fraunhofer SIT konnten ihre Expertise bezüglich Hardwaresicherheit-basierter Sicherheitskonzepte und intelligenter Angriffserkennung bereits in zahlreichen Projekten einfließen lassen, wie etwa den Forschungrojekten "VITAF", "Sec4Cars", "E-Corridor", "ELISA" und "ProSeCa", die verschiedene Aspekte vertrauenswürdiger Fahrzeugnetzwerke erforschten.
+Im Projekt FINESSE wird dieses umfassende Wissen aus zahlreichen erfolgreichen Projekten zur effektiven Gestaltung neuer Sicherheitskonzepte im Bereich Hardwaresicherheit und Angriffserkennung im Automobil- und Bahnkontext eingesetzt.
 
 <br>
 
