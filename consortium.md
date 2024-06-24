@@ -34,7 +34,7 @@ Dies umfasst fahrzeugseitige Software-Komponenten, z.B. Intrusion Detection Syst
 
 <br>
 
-### [Fraunhofer-Institut für Sichere Informationstechnologie](https://www.fraunhofer.de/)
+[![Fraunhofer SIT Logo](assets/images/logos/FSIT.png){: width="250"}](https://www.fraunhofer.de/)
 
 Das Fraunhofer-Institut für Sichere Informationstechnologie SIT zählt zu den weltweit führenden Forschungseinrichtungen für Cybersicherheit und Privatsphärenschutz.
 Das Institut beschäftigt sich mit den zentralen Sicherheitsherausforderungen in Wirtschaft, Verwaltung und Gesellschaft und betreibt praxisorientierte Spitzenforschung und Innovationsentwicklung.
