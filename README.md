@@ -12,7 +12,3 @@ bundle exec jekyll serve
 
 ## Todo
 
-- Fill partner descriptions including logos.
-- Add publications.
-- Imprint
-- Add more posts.
