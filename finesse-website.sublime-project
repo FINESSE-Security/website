@@ -7,5 +7,17 @@
 	],
 	"settings": {
 		"mde.auto_fold_link.enabled": false
-	}
+	},
+	"build_systems":
+	[
+		{
+			"name": "WSL: bibtool",
+			"target": "wsl_exec",
+			"cancel": {"kill": true},
+			"wsl_cmd": "bibtool -i $unix_file -o $unix_file",
+			"wsl_working_dir": "$unix_file_path",
+			"selector": "text.biblatex",
+			"file_patterns": ["*.bib"]
+		}
+	]
 }
