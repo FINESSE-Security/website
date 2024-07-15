@@ -23,7 +23,7 @@ email: mail@finesse-security.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cyber Schutzsysteme für Fahrzeuge und Infrastruktur im Straßen- und Schienenverkehr.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://finesse-security.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 timezone: Europe/Berlin
