@@ -9,6 +9,8 @@ date:   2025-09-16 09:28:30 +0200
 
 Modern rail vehicles are networked systems with complex communication structures. This connectivity brings efficiency gains but also creates new attack opportunities. The FINESSE project develops solutions for these challenges and recently conducted a workshop with test runs at the Advanced Train Lab (aTL) in Scheibenberg.
 
+<!--more-->
+
 Representatives from all FINESSE partners came together: DB Systemtechnik (Andreas Isbarn), ETAS (Jens Gramm), Fraunhofer SIT (Christian Plapper), INCYDE (Sofian Beyer), University of Passau (Simon Unger), and Yekta IT (Ali Recai Yekta, Cenk Yekta).
 
 Sofian Beyer (INCYDE) presented the developed MVB attacker hardware, which enables attacks on the Multifunction Vehicle Bus (MVB) protocol. The MVB connects all critical components of a train – from brakes to door control. Vulnerabilities in this system have direct impacts on operational safety.

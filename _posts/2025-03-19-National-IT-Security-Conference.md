@@ -11,6 +11,8 @@ date:   2025-03-19 09:28:30 +0200
 
 From March 17-19, 2025, the FINESSE research consortium presented at the National IT Security Research Conference in Berlin. Under the theme "Cybersecurity and Democracy," around 450 participants from science, business, and politics gathered to exchange the latest research findings.
 
+<!--more-->
+
 ### The FINESSE Project
 
 FINESSE, funded by the German Federal Ministry for Research, Technology and Space (BMFTR), develops unified protection systems for vehicles and infrastructure in road and rail transport. Three partners presented their innovative demonstrators at the joint FINESSE booth:

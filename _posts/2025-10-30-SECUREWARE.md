@@ -10,6 +10,7 @@ date:   2025-10-30 09:28:30 +0200
 
 From October 26-30, 2025, the FINESSE consortium was prominently represented at SECURWARE 2025 (The Nineteenth International Conference on Emerging Security Information, Systems and Technologies) in Barcelona, presenting current research on automotive cybersecurity.
 
+<!--more-->
 
 ### Paper: "From ECU to VSOC: UDS Security Monitoring Strategies"
 
