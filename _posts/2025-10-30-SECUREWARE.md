@@ -19,8 +19,7 @@ The paper was developed in collaboration between Ali Recai Yekta (Yekta IT), Nic
 The research addresses security challenges of the Unified Diagnostic Services (UDS) protocol – a critical communication protocol for vehicle diagnostics. The presented security monitoring strategies utilize in-vehicle logging and remote analysis through a Vehicle Security Operations Center (VSOC) to identify UDS attack scenarios. The approach demonstrates that the detection methods cover a wide range of potential attack vectors, and it identifies gaps in current AUTOSAR-standardized security events.
 
 **Links:** 
-[Post]({% post_url 2025-10-30-SECUREWARE %}) und in der [Publikation](https://arxiv.org/abs/2510.25375)
-[Post]({% post_url 2025-10-30-SECUREWARE %}) und in der [Publikation](https://www.thinkmind.org/library/SECURWARE/SECURWARE_2025/securware_2025_1_70_30030.html)
+[Pre-Print](https://arxiv.org/abs/2510.25375) and [Publication](https://www.thinkmind.org/library/SECURWARE/SECURWARE_2025/securware_2025_1_70_30030.html)
 
 ### Training: "Building Security Monitoring Solutions with Open-Source Tools"
 

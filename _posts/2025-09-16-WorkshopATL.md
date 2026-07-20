@@ -3,7 +3,7 @@ layout: post
 title:  "FINESSE at the advanced TrainLab: Cybersecurity for Rail Vehicles"
 date:   2025-09-16 09:28:30 +0200
 ---
-![FINESSE Workshop at the advanced TrainLab. ]({{ "/assets/images/2025/workshopATL.jpg" | relative_url }})
+![FINESSE Workshop at the advanced TrainLab. ]({{ "/assets/images/2025/workshopATL2025.jpg" | relative_url }})
 
 ### Workshop and Testing Under Real Operating Conditions
 
